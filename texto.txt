@@ -1,0 +1,8 @@
+Calculadora Básica:
+a. Se o usuário escolher a opção 1, implemente uma calculadora
+básica.
+b. Solicite a entrada de dois valores.
+c. Permita ao usuário escolher uma operação matemática
+(adição, subtração, multiplicação, divisão).
+d. Exiba o resultado da operação.
+e. Retorne ao menu de opção.

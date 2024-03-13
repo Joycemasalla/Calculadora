@@ -1,0 +1,14 @@
+C:\Users\joyce\Downloads\calculadora basica\bin\Debug\net8.0\calculadora basica.exe
+C:\Users\joyce\Downloads\calculadora basica\bin\Debug\net8.0\calculadora basica.deps.json
+C:\Users\joyce\Downloads\calculadora basica\bin\Debug\net8.0\calculadora basica.runtimeconfig.json
+C:\Users\joyce\Downloads\calculadora basica\bin\Debug\net8.0\calculadora basica.dll
+C:\Users\joyce\Downloads\calculadora basica\bin\Debug\net8.0\calculadora basica.pdb
+C:\Users\joyce\Downloads\calculadora basica\obj\Debug\net8.0\calculadora basica.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\joyce\Downloads\calculadora basica\obj\Debug\net8.0\calculadora basica.AssemblyInfoInputs.cache
+C:\Users\joyce\Downloads\calculadora basica\obj\Debug\net8.0\calculadora basica.AssemblyInfo.cs
+C:\Users\joyce\Downloads\calculadora basica\obj\Debug\net8.0\calculadora basica.csproj.CoreCompileInputs.cache
+C:\Users\joyce\Downloads\calculadora basica\obj\Debug\net8.0\calculadora basica.dll
+C:\Users\joyce\Downloads\calculadora basica\obj\Debug\net8.0\refint\calculadora basica.dll
+C:\Users\joyce\Downloads\calculadora basica\obj\Debug\net8.0\calculadora basica.pdb
+C:\Users\joyce\Downloads\calculadora basica\obj\Debug\net8.0\calculadora basica.genruntimeconfig.cache
+C:\Users\joyce\Downloads\calculadora basica\obj\Debug\net8.0\ref\calculadora basica.dll
